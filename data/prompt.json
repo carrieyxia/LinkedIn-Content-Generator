@@ -1,0 +1,15 @@
+{
+    "input_variables": [
+        "industry",
+        "years",
+        "skill",
+        "certificate",
+        "leadership"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "\n* Seeking New Opportunities! *\n\nHello LinkedIn community! \n\nI hope this post finds you all well. I am excited to announce that I am currently seeking new job opportunities in {industry}. With {years} years of experience\n\nHere's a brief overview of my background:\n\n* {skill}\n* {certificate}\n* {leadership}\n\nI am passionate abou {industry} and thrive in dynamic environments where I can contribute my skills and knowledge. I am a dedicated team player who values co)\n\nIf you know of any exciting opportunities or if you would like to connect and discuss potential collaborations, I would love to hear from you! Feel free to reach out\n\nThank you in advance for your support, and I look forward to connecting with you all!\n\n#JobSeeker #OpenToOpportunities #CareerSearch #LinkedInNetworkinq\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

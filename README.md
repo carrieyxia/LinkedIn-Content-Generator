@@ -15,12 +15,6 @@ Project Organization
     │                         description, a number (for ordering), and the creator's initials,
     │                        e.g. `initial-data-exploration-01-hg`.
     │
-    ├── output/             <- Manipulated data, logs, etc.
-    │
-    ├── tests/              <- Unit tests.
-    │
-    ├── linkedin_content_creator/      <- Python module with source code of this project.
-    │
     ├── environment.yml     <- conda virtual environment definition file.
     │
     ├── LICENSE
