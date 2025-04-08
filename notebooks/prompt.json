@@ -1,0 +1,15 @@
+{
+    "input_variables": [
+        "industry",
+        "years",
+        "skill",
+        "certificate",
+        "leadership"
+    ],
+    "output_parser": null,
+    "partial_variables": {},
+    "template": "\n\ud83d\udea8 We\u2019re Hiring! \ud83d\udea8\n\nHello LinkedIn network!\n\nI\u2019m excited to share that we have an open position in the field of {industry}. We\u2019re looking for a talented and passionate individual with {years}+ years of experience who\u2019s ready to bring their skills and energy to our team.\n\n\u2728 Key skills/qualifications we\u2019re looking for:\n* {skill}\n* {certificate}\n* {leadership}\n\nThis role is ideal for someone who thrives in a dynamic environment and is ready to make an impact. If you or someone you know is exploring new opportunities, we\u2019d love to connect and start a conversation.\n\n\ud83d\udce9 Feel free to DM me or drop a comment below if you're interested or have referrals!\n\nLet\u2019s build something great together.\n\n#NowHiring #JobOpening #CareerOpportunity #Hiring #Recruiting #LinkedInJobs #TalentSearch #OpenRole\n",
+    "template_format": "f-string",
+    "validate_template": true,
+    "_type": "prompt"
+}

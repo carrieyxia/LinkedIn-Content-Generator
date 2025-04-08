@@ -1,6 +1,23 @@
-LinkedIn Content Creator
+## 🚀 Automating LinkedIn Job Post Generation with GPT-3.5-Turbo
 ==============================
+This project explores automating the creation of LinkedIn job posts for recruiters using large language models (LLMs). While our recruitment SaaS platform already automates job distribution across boards, recruiters still manually write LinkedIn posts to share roles with their personal networks — a time-consuming and repetitive task.
 
+We aimed to solve this with AI by comparing two approaches:
+- Prompt Engineering using LangChain + GPT-3.5-Turbo
+- Fine-Tuned GPT-3.5-Turbo on custom recruiter-style job post data
+
+🔧 Tech Stack
+- Python
+- LangChain
+-OpenAI GPT-3.5-Turbo (via both prompt + fine-tuning)
+
+## 🧠 My Contributions
+- Collected and curated the training dataset
+- Built and evaluated both prompt-engineered and fine-tuned workflows
+- Analyzed output quality and cost efficiency
+
+📈 Outcome
+- The fine-tuned model produced consistent, structured posts and was significantly more cost-effective during inference — supporting its adoption as a scalable product feature.
 
 
 Project Organization
