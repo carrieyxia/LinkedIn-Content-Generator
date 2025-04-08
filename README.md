@@ -1,4 +1,4 @@
-## 🚀 Automating LinkedIn Job Post Generation with GPT-3.5-Turbo
+# 🚀 Automating LinkedIn Job Post Generation with GPT-3.5-Turbo
 This project explores automating the creation of LinkedIn job posts for recruiters using large language models (LLMs). While our recruitment SaaS platform already automates job distribution across boards, recruiters still manually write LinkedIn posts to share roles with their personal networks — a time-consuming and repetitive task.
 
 We aimed to solve this with AI by comparing two approaches:
