@@ -15,7 +15,7 @@ We aimed to solve this with AI by comparing two approaches:
 - Built and evaluated both prompt-engineered and fine-tuned workflows
 - Analyzed output quality and cost efficiency
 
-📈 Outcome
+## 📈 Outcome
 - The fine-tuned model produced consistent, structured posts and was significantly more cost-effective during inference — supporting its adoption as a scalable product feature.
 
 
